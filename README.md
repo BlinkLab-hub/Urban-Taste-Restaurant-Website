@@ -62,4 +62,4 @@ Urban Taste is a restaurant website designed to provide visitors with an elegant
 
 ## Author
 
-Created by Charming as part of my web development learning journey.
+Created by BlinkLab as part of my web development learning journey.

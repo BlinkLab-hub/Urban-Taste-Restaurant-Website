@@ -35,9 +35,11 @@ Urban Taste is a restaurant website designed to provide visitors with an elegant
 
 <img width="386" height="474" alt="image" src="https://github.com/user-attachments/assets/97e1467f-de90-4da8-a7be-4e83a62d4fb0" />
 
-### Mobile View
+### Mobile View(Humburger closed)
 
 <img width="205" height="456" alt="image" src="https://github.com/user-attachments/assets/fed42411-9614-45ef-a0c7-01b93c7970f9" />
+
+### Mobile View(Humburger open)
 
 <img width="202" height="455" alt="image" src="https://github.com/user-attachments/assets/bdefd5ea-36b3-4c44-93e8-5c3af924e922" />
 
